@@ -11,7 +11,7 @@ One of the main motive of learning different data structures is to see their com
 It literally saves my day when I have to sort something and pick up something as the result. This algo just as if targets a position (the interest position) having the answer to my question or atleast some part of it.
 ## Mathematical Background
 After reading the divide and conquer part of the [clrs](https://walkccc.github.io/CLRS/) book the first thing that struck to me is that the maths behind all these proofs and assumptions and inductions were not completely meaningfull to me and I couldn't get enough of it just by some google searches so it came to me to first ponder over the "Mathematical Background" of this stuff and it was just some high school maths(not the entirety). The whole thing is divided into four parts as : 
-### [Appendix A :](https://github.com/Shashwat0212/Competitive-in-java/blob/master/Mathematical%20Background/Appendix-A.md) 
+### Appendix A : 
 Part A covers the Sequence, Series and Summations theoritically which is a key aspect to know the bounds of an algorithms mathematical respresentaion.
 ### Appendix B : 
 Part B has basic properties of mathematical objects like graphs and trees.
